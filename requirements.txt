@@ -1,0 +1,7 @@
+fastapi==0.99.0
+pydantic
+uvicorn
+mangum
+python-dotenv
+requests
+pyclean
