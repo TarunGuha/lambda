@@ -5,3 +5,4 @@ mangum
 python-dotenv
 requests
 pyclean
+bs4
